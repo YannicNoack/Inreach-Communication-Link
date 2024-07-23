@@ -39,9 +39,9 @@ Changelog:
 '''
 
 # Mail server configuration
-MAIL_SERVER = "mail.manitu.de"
-EMAIL_ADDRESS = "satellite@yannic-noack.org"
-PASSWORD = "Hy^JG>jgZsZWa2@"
+MAIL_SERVER = "server.mail.com"
+EMAIL_ADDRESS = "satellite@youremail.com"
+PASSWORD = "PASSWORD"
 
 # Allowed inReach characters
 #ALLOWED_CHARS = """!"#$%\'()*+,-./:;<=>?_¡£¥¿&¤0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÅÆÇÉÑØøÜßÖàäåæèéìñòöùüΔΦΓΛΩΠΨΣΘΞ"""
